@@ -9,6 +9,7 @@
 ### Two options to change card - swipe right/left and buttons
 ![](https://i.ibb.co/KF0Z8nv/image.png)
 ![](https://i.ibb.co/qjnfpd7/image.png)
+### Code logic: Renders all cards using data received from API. When button is pressed or card is swiped, it moves to the bottom of stack. As a result, endless list of profiles.
 ## Database and API
 ### As I used custom idea, I have created API to get profiles' data (using Google Таблицы and App Scripts to deploy my API)
 ![](https://i.ibb.co/tJ3VWRv/image.png)
